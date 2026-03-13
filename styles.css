@@ -1,0 +1,30 @@
+/**
+ * Styles for filter_sborniktestov.
+ *
+ * @package    filter_sborniktestov
+ * @copyright  2026 Sbornik Testov <info@sborniktestov.ru>
+ * @license    https://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
+ */
+
+.filter-sborniktestov-embed {
+    margin: 12px 0;
+    max-width: 100%;
+}
+
+.filter-sborniktestov-embed iframe {
+    max-width: 100%;
+}
+
+.filter-sborniktestov-credit {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+}
+
+.filter-sborniktestov-credit a {
+    color: #3465cc;
+    font-weight: 600;
+    text-decoration: none;
+}
+
+.filter-sborniktestov-credit a:hover {
+    text-decoration: underline;
+}
